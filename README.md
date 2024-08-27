@@ -21,7 +21,7 @@ This project is a resilient email sending service built with Node.js and Express
 
 
 ```bash
-git clone https://github.com/your-username/email-sending-service.git
+git clone[ https://github.com/your-username/email-sending-service.git](https://github.com/shriya678/Email-Service-using-javaScript.git)
 cd email-sending-service
 npm install
 node app.js   - this will run the project
